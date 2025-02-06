@@ -1,6 +1,6 @@
-Crimson
+Crimson1
+Looool
 Orange
-Blue
 Cyan
 Yellow
 Charcoal
@@ -9,5 +9,5 @@ Coral
 Silver
 Fuchsia
 Purple
-Brown
+Looool
 Red
